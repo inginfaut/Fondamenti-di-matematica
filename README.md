@@ -5,8 +5,7 @@ Contenuti
 Appunti
 Esercizi
 Temi d'esame
-Formulari
-Risorse utili
+
 Come contribuire
 Se hai materiale da condividere:
 
@@ -16,4 +15,5 @@ Segnala errori o materiale mancante
 Tutti i contributi sono benvenuti.
 
 Organizzazione del repository
-Appunti/ Esercizi/ Temi-Esame/ Formulari/ Risorse/
+Appunti/ Esercizi/ Temi-Esame
+
